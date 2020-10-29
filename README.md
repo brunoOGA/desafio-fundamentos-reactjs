@@ -6,7 +6,7 @@ A aplicação é conectada com [Desafio Database Relations](https://github.com/b
 e exibe as transações criadas e permite a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
 ---
-Funcionalidades da aplicação
+## Funcionalidades da aplicação
 - Lista as transações da sua API: Sua página Dashboard exibi uma listagem através de uma tabela, com o campo title, value, type e category de todas as transações que estão cadastradas na sua API.
 ---
 ## Tecnologias utilizadas
